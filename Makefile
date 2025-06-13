@@ -5,7 +5,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME += AMLyrics
 
-AMLyrics_FILES += AMLyrics.x
+AMLyrics_FILES += AMLyrics.xm
 AMLyrics_CFLAGS += -fobjc-arc
 AMLyrics_FRAMEWORKS += MediaRemote
 
