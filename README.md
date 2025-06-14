@@ -1,5 +1,9 @@
 # AMLyrics
 
+在 iOS 15 及以上版本「音乐」的标题、控制中心模块及锁屏上显示歌词。并将歌词文件导出到「音乐」的沙盒容器中。
+
+Display lyrics in the title, Control Center module, and lock screen of the “Music” app on iOS 15 and later. Also exports the lyrics file to the “Music” app’s sandbox container.
+
 ## 使用方法
 
 1. 越狱设备直接安装即可，巨魔设备参照以下步骤
