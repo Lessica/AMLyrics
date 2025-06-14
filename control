@@ -2,8 +2,8 @@ Package: com.82flex.amlyrics
 Name: AMLyrics
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Rachel
-Author: Rachel
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
