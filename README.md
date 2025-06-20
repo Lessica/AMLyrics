@@ -19,6 +19,16 @@ Display lyrics in the title, Control Center module, and lock screen of the “Mu
 1. Open “TrollFools” → “Music” → “Advanced Options” → “Prefer Main Executable”.
 2. Use “TrollFools” to inject AMLyrics into “Music”.
 
+## Use it with Letterpress!
+
+[now-on-havoc]: https://havoc.app/package/letterpress
+
+[<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
+
+Letterpress is an awesome music visualizer “tweak” that based on TrollStore floating window technology.
+
+https://github.com/user-attachments/assets/4d22da7c-280f-49d8-b3cf-e62b2e8d5f01
+
 ## Known Issues
 
 Injecting AMLyrics into “Music” using “TrollFools” will cause it to always be offline, unable to access any content other than the “Library”.
